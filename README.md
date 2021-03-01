@@ -1,2 +1,2 @@
 # First_telegram_bot
-GitHub Desktop tutorial repository
+ bu mening birinchi python da yozilgan telegram botim .....
