@@ -1,6 +1,6 @@
 import telebot
 import datetime
-token = << Your bot api >>
+token = '<< Your bot api >>'
 bot = telebot.TeleBot(token)
 #bot.send_message(1260770782, "salom bot")
 
